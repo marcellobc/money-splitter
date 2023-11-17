@@ -1,0 +1,1 @@
+This will be used as an experiment with my current bank account, aiming split some payments immediately as long as it matches some criteria defined by user.
